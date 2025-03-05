@@ -9,7 +9,7 @@ Now you can visit [`localhost:4000/fruits`](http://localhost:4000/fruits) from y
 
 ## Main Application Logic
 ### Filtering: [`data.ex`](lib/fruit_list/data.ex).
-### Controller: [`fruit_controller`](lib/fruit_list_web/controllers/fruit_controller.ex)
+### Controller: [`fruit_controller.ex`](lib/fruit_list_web/controllers/fruit_controller.ex)
 
 ## Query Parameters
 
